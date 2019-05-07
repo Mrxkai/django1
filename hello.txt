@@ -1,2 +1,3 @@
-slidetoshutdown
+﻿slidetoshutdown
 滑动关机
+hello world
