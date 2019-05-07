@@ -1,1 +1,2 @@
 slidetoshutdown
+滑动关机
